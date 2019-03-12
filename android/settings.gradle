@@ -1,0 +1,3 @@
+rootProject.name = 'hostel_mess_system_1303'
+
+include ':app'
